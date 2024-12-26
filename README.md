@@ -10,4 +10,5 @@
 
 # Test Cases Report
 
-![manual testing report](https://github.com/user-attachments/assets/d62a5505-7512-4174-bfca-0eddb41284c5)
+![manual testing report](https://github.com/user-attachments/assets/491cc072-66f2-4c50-8732-a9eb5e1afc38)
+
